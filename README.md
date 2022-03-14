@@ -22,5 +22,7 @@ To start with this repo the following dependencey must be installed using npm (n
    ![banner](https://user-images.githubusercontent.com/50669877/158130706-0bd626f4-a5b7-4636-85cd-7c4b2f17c4c2.svg)
 
     npm install @openzeppelin/contracts
+    
+    npm install --save-dev @openzeppelin/truffle-upgrades
 
    For more information on @openzeppelin follow https://github.com/OpenZeppelin/openzeppelin-upgrades
