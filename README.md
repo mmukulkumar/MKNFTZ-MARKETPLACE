@@ -3,7 +3,8 @@ NFT market place where artist can mint there art as NFT artwork.
 
 To start with this repo the following dependencey must be installed using npm (node.js)
 1. truffle 
-![68747470733a2f2f74727566666c6573756974652e636f6d2f696d672f74727566666c652d6c6f676f2d6461726b2e737667](https://user-images.githubusercontent.com/50669877/158131101-9dc910a0-81ec-49a9-81ad-fa63e6b0ce3a.svg)
+![truffle](https://user-images.githubusercontent.com/50669877/158131741-0550dff7-9994-470d-a9ab-d06354945b70.JPG)
+
 
 
 npm install -g truffle
