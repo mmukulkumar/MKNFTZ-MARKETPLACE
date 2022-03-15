@@ -28,3 +28,4 @@ To start with this repo the following dependencey must be installed using npm (n
    For more information on @openzeppelin follow https://github.com/OpenZeppelin/openzeppelin-upgrades
 
 # 4. For running the HTML on Localhost install Live server plugin in MS Visual Studio Code (Text-Editor)
+    https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
