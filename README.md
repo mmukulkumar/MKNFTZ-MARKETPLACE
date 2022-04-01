@@ -1,4 +1,4 @@
-# MKTZ-MARKETPLACE
+# MKNTZ-MARKETPLACE
 NFT market place where artist can mint there art as NFT artwork.
 
 # Command line use
